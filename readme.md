@@ -51,3 +51,27 @@ Some things that will be integrated:
 
 ![Example](https://i.ibb.co/394zvpBG/Captura-de-pantalla-2025-03-24-220802.jpg)
 
+
+## How to use?
+
+To deploy this project run
+
+```bash
+  First get your token at discod.com/developers 
+```
+
+```bash
+  git clone https://github.com/BrandokVargas/dukibot.git
+```
+
+```bash
+  go mod tidy
+```
+
+```bash
+  go build -o dukibot.exe main.go
+```
+
+```bash
+  ./dukibot
+```
