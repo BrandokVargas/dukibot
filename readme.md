@@ -57,7 +57,9 @@ Some things that will be integrated:
 To deploy this project run
 
 ```bash
-  First get your token at discod.com/developers 
+  First get your token at discod.com/developers
+  For example Token is: xxxx3dsadjfijshdfijsdijsdjhsadijhsad
+  Package config -> config.json -> Token: xxxx3dsadjfijshdfijsdijsdjhsadijhsad   
 ```
 
 ```bash
