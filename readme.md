@@ -57,13 +57,13 @@ Some things that will be integrated:
 To carry out this project
 
 ```bash
-  First get your token at discod.com/developers
-  For example Token is: xxxx3dsadjfijshdfijsdijsdjhsadijhsad
-  Package config -> config.json -> Token: xxxx3dsadjfijshdfijsdijsdjhsadijhsad   
+  git clone https://github.com/BrandokVargas/dukibot.git
 ```
 
 ```bash
-  git clone https://github.com/BrandokVargas/dukibot.git
+  First get your token at discod.com/developers
+  For example Token is: xxxx3dsadjfijshdfijsdijsdjhsadijhsad
+  Package config -> config.json -> Token: xxxx3dsadjfijshdfijsdijsdjhsadijhsad   
 ```
 
 ```bash
