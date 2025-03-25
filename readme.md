@@ -54,7 +54,7 @@ Some things that will be integrated:
 
 ## How to use?
 
-To deploy this project run
+To carry out this project
 
 ```bash
   First get your token at discod.com/developers
