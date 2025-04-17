@@ -23,6 +23,7 @@ func main() {
 	router.Register(&bot.ResponseChannel{})
 	router.Register(&bot.ResponseChannelCategory{})
 	router.Register(&bot.ResponseChannelMultiplyCategory{})
+	router.Register(&bot.ResponseChannelTextMultiply{})
 
 	if err := discordBot.Start(router); err != nil {
 		log.Fatalf("Error at startup: %v", err)
